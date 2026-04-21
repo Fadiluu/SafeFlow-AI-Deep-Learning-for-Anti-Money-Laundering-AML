@@ -267,4 +267,5 @@ This project is licensed under the MIT License.
 
 ---
 
-*Muhammed Fadil | University Project | University of Wollongong in Dubai Graduate*
+*Muhammed Fadil
+University Project | University of Wollongong in Dubai Graduate*
